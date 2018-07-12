@@ -1,2 +1,2 @@
-# ruby-cardconnect-api-v2
+# ruby-cardconnect-api-v1
  CardConnect API Ruby Sample Client v1
